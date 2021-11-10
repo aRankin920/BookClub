@@ -1,0 +1,818 @@
+
+
+
+h1 { 
+        
+   margin-top: 55px;
+   font-size: 240%;
+   vertical-align: middle;
+   text-align: center;
+}
+
+
+
+#leftMargin { 
+   margin-left: 30px;
+   vertical-align: middle;
+   width:150px
+}
+
+
+/*  Welcome page tags */
+#containerMargin {         
+   margin-top: 15px;	
+   width: 550 px;
+   text-align: center;
+}
+
+.welcomepageTopSpacing { 
+   margin-top: 70px;
+}
+
+
+
+/****  Dashboard Page Top Nav *****/
+
+/*For the word 'Welcome' */
+.welcomeFormat{
+  margin-top: 25px;
+  font-size: 23px;
+  font-family:Book Antiqua; 
+  margin-left:40px;
+  vertical-align: top;
+}
+.welcomeUserFormat{
+  margin-top: 25px;
+  font-size: 17px;
+  margin-left:-85px;
+  vertical-align: top;
+}
+
+.welcomeBox {
+ /*  border: 1px solid black; */
+ font-size: 20px;
+  width: 90%;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  height: 140px;
+  margin-left: 25px;
+}
+.centerText {
+ /*  border: 1px solid black; */
+  font-size: 23px;
+  font-weight: bold;
+  margin-left: 190px;
+}
+
+.logoutLink{
+  margin-left:220px;
+  vertical-align: bottom;
+}
+
+/* For DASHBOARD page*/
+#counter{
+  margin-left:350px;
+  vertical-align: bottom;
+  margin-top: 15px;
+}
+
+.ctValue{
+  margin-left:10px;
+  margin-right:-70px;
+  vertical-align: bottom;
+  margin-top: 15px;
+}
+.ctValue2{
+  margin-left:10px;
+  margin-right:-70px;
+  vertical-align: bottom;
+  margin-top: 28px;
+}
+
+/*---- search result page  -----*/
+#counter2{
+  margin-left:555px;
+  vertical-align: bottom;
+  margin-top: 20px;
+}
+.ctValue3{
+  margin-left:10px;
+  margin-right:-150px;
+  vertical-align: bottom;
+  margin-top: 20px;
+}
+
+/*---- search result page  -----*/
+
+/*For EVERY Page except dashboard*/
+.counter2{
+  margin-left:620px;
+  margin-right:-40px;
+  vertical-align: bottom;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.home{
+  font-size: 15px;
+  margin-left:10px;
+}
+.homeFormat{
+  margin-right:-80px;
+}
+
+.navTopBotPadding {         
+  margin-top: 25px;	
+  margin-left:90px;
+  margin-bottom: 120px;
+}
+.cartIcon{
+  margin-left:90px;
+  vertical-align: top;
+}
+
+/*for search results page*/
+.cartIcon2{
+  margin-left:90px;
+  vertical-align: top;
+  margin-top: 5px;
+}
+.centerText2 {
+ /*  border: 1px solid black; */
+ font-size: 23px;
+ font-weight: bold;
+  margin-left: 85px;
+}
+
+.centerText3 {
+ /*  border: 1px solid black; */
+ font-size: 23px;
+ font-weight: bold;
+  margin-left: 70px;
+}
+
+/*---- for table on details page ----*/
+.columnWidth2 {
+ /*  border: 1px solid black; */
+   width: 35%
+} 
+
+
+/****  Dashboard Mid Section *****/
+/*--------------*/
+.listFormat ul li {
+  display: inline; 
+  overflow: auto;
+  width: 900px 
+}
+
+.listFormat ul {
+  width:900px;
+  list-style-type: none;
+}
+
+
+
+.listFormat li {
+  font-size: 1px;
+  width: 1px;
+  padding: 40px;
+}
+
+.genreFormat  {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Papyrus;
+  width: 800px;
+  margin-left:-220px;
+}
+.listFormat span {
+  height: 41px;
+  padding: 0px;
+  margin: 0px;
+  font-size: 1px;
+}
+.bookRunner {         
+  margin-top: 25px;	
+  text-align: center;
+  margin-left:-170px;
+
+}
+.bookRunner2 {         
+  margin-top: 25px;	
+  text-align: center;
+  margin-bottom: 120px;
+  margin-left:-170px;
+}
+
+.lineFiller{
+	border-bottom: 1px solid black;
+	width:900px;
+	margin-left:15px;
+}
+
+
+
+
+/****  Dashboard Lower Section *****/
+/*--------------*/
+
+.lowerBox {
+ border: 1px solid black;
+ font-size: 23px;
+ font-weight: bold;
+  margin-left: 25px;
+  width: 550px;
+  height: 650px;
+}
+.editInputField{
+	margin-top: -15px;
+	margin-left:30px;	
+}
+
+/***** On DETAILs page *****/
+
+/*---- details page  ----*/
+.gridContainerDashboard {  
+  margin-top: 15px;	
+  text-align: center;
+  flex-direction: row;
+  margin-left: 90px;
+  width:800px
+} 
+.gridContainerDashboard5 {  
+  margin-top: 15px;	
+  text-align: center;
+  flex-direction: row;
+  margin-left: 40px;
+}
+
+.innertopNavDashboard5 {  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start; 
+   margin-top: -25px;
+   border-bottom: 1px solid black;  
+   width: 800px;    
+}
+
+.home2{
+  font-size: 15px;
+}
+
+/*---- Counter field ----*/
+.counter5{
+  margin-left: 630px;
+  vertical-align: bottom;
+  margin-top: 15px;
+  
+}
+#countValue1 {
+ font-size: 15px;
+ margin-top:15px;
+ margin-left:10px;
+ margin-right:-140px;
+}
+#countValue {
+ font-weight: bold;
+ text-decoration:underline;
+ font-size: 22px;
+ margin-top:-5px;
+ margin-left:20px;
+}
+.ctrContainer {
+ display:flex;
+ flex-direction: column;
+ margin-top:-2px;
+}
+.ctrInner {
+ flex-direction: column;
+ display: inline-block;
+}
+
+.arrow-up {
+  width: 0; 
+  height: 0; 
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  color: ivory;
+  font-weight: bold;
+  font-size: 9px;
+  text-align: center;
+  vertical-align: middle;
+  border-bottom: 9px solid black;
+  margin-left:5px;
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  margin-top:9px;
+  border-top: 9px solid black;
+  margin-left:5px;
+}
+
+.lowerBox2 {
+ font-size: 22px;
+ text-align:left;
+  margin-left: 25px;
+  width: 550px;
+  height: 650px;
+}
+.boldTitle1 {
+ font-weight: bold;
+ margin-right:40px;
+}
+
+.boldTitle2 {
+ font-weight: bold;
+ text-decoration:underline;
+ font-size: 22px;
+}
+
+.boldTitle3 {
+ font-weight: bold;
+ margin-right:15px;
+}
+
+.boldTitle4 {
+ font-weight: bold;
+ margin-left:15px;
+}
+.boldTitle5 {
+ font-weight: bold;
+ 
+}
+
+/*---- details page ----*/
+.costContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;	
+}
+.innerCostContainer{
+  display: flex;
+  flex-direction: row;	
+}
+.innerCostContainer2{
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black; 	
+}
+.leftMargin{
+	
+	margin-left:15px;
+}
+
+.logoutLink2{
+  margin-left:80px;
+  vertical-align: bottom;
+}
+
+/** Search page**/
+.inputFieldFormat {  
+  width:50px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+
+/****  New page ****/
+
+
+.hide { display: none; }
+.show { display: block; }
+
+
+
+/****  Dashboard tags *****/
+#dashboardBaseContainer {         
+  margin-top: 15px;	
+  text-align: center;
+  display: flex;
+  flex-direction: column;  
+  margin-left: 20px;             
+}
+
+.topNavDashboard {  	
+  margin-top: 15px;	
+      
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+.innertopNavDashboard {  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start;       
+}
+
+.innertopNavDashboard2 {  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start; 
+   margin-top: -25px;
+   border-bottom: 1px solid black;  
+   width: 900px;    
+}
+
+.innertopNavDashboard3 {  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start; 
+   margin-top: -25px;
+   border-bottom: 1px solid black;  
+   width: 820px;    
+}
+
+/*** Dashboard Container ***/
+.navBottomPadding{         
+   padding-bottom: 10px;	
+              
+}
+
+/****--- Used on RESULTS page ----****/
+
+.navBottomPadding{         
+   margin-bottom: 20px;	           
+}
+
+#selectedBaseContainer {         
+  margin-top: 35px;	              
+}
+.innerSelectedContainer {          
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;       
+}
+.innerlinkContainer {  
+ display: flex;
+ flex-direction: row;
+ display: inline-block; 
+ justify-content: flex-start;       
+}
+
+.searchResultName {
+  font-size: 25px;
+ margin-left: -850px;
+}
+.lowerBox1 {
+ /* border: 1px solid black; */
+  font-size: 30px;
+/* font-weight: bold; */
+ margin-left: 5px;
+ width: 850px;
+ height: 650px;
+}
+
+
+
+/*----  Checkout Page ----*/
+.centerText7 {
+ /*  border: 1px solid black; */
+  font-size: 23px;
+  font-weight: bold;
+  margin-left: 190px;
+}
+
+.logoutLink7{
+  margin-left:220px;
+  vertical-align: bottom;
+}
+#counter3{
+  margin-left:650px;
+  vertical-align: bottom;
+  margin-top: 20px;
+}
+.ctValue4{
+  margin-left:10px;
+  margin-right:-150px;
+  vertical-align: bottom;
+  margin-top: 20px;
+}
+
+.gridContainerDashboard6 {  
+  margin-top: 15px;
+  margin-bottom: 15px;	
+  text-align: left;
+  flex-direction: row;
+   margin-left: -35px;
+}
+
+.gridContainerDashboard7 {  
+  margin-top: 15px;	
+  text-align: left;
+  flex-direction: row;
+  margin-left: 25px;
+}
+
+.topNavDashboard6 {  	
+  margin-top: 15px;	      
+  flex-direction: row;
+}
+.topNavDashboardButton2 { 
+  box-shadow: 2px 2px;
+  margin-left: 555px;       
+}
+.innertopNavDashboard6 {  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start; 
+   margin-top: -25px;
+   border-bottom: 1px solid black;  
+   width: 855px;    
+}
+.innertopNavDashboard7 {  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start; 
+   margin-left: -85px;
+   border-top: 1px solid black;  
+   width: 850px;   
+   font-size: 21px; 
+}
+
+/*---- checkout page   ----*/
+.lowerBox3 {
+  font-size: 25px;
+  font-weight: bold; 
+  margin-left: 25px;
+  width: 850px;
+  margin-top: 25px;
+}
+.total {  
+  margin-top: 15px;	
+  font-weight:bold;
+  margin-left: 550px;
+}
+.total1 {  
+  font-weight:bold;
+}
+
+.topMargin{
+ margin-top: 30px;
+	
+}
+
+
+/****-----  Receipt Page   -----****/
+.centerText8 {
+ /*  border: 1px solid black; */
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 240px;
+   margin-right: 170px;
+}
+
+.memberName {
+ /*  border: 1px solid black; */
+  font-size: 20px;
+  margin-left: 279px;
+}
+.gridContainerDashboard8a {  
+  margin-top: 15px;	
+  text-align: center;
+  flex-direction: row;
+  margin-left: 70px;
+}
+.gridContainerDashboard8 {  
+  margin-top: 15px;
+  margin-bottom: 15px;	
+  text-align: left;
+  flex-direction: row;
+  margin-left: -35px;
+}
+
+.gridContainerDashboard8b {  
+  margin-top: 15px;	
+  text-align: center;
+  flex-direction: row;
+  margin-left: 90px;
+}
+.topNavDashboard8 {  	
+  margin-top: 15px;	
+  margin-left: -30px;     
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+.innertopNavDashboard8 {  
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start; 
+   margin-top: -25px;
+   border-top: 1px solid black;  
+   width: 1000px;    
+}
+
+.innertopNavDashboard8a {  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start; 
+   margin-top: -25px;
+   margin-left: -20px; 
+   border-bottom: 1px solid black;  
+   width: 1000px;    
+}
+
+.lowerBox4 {
+  font-size: 25px;
+  width: 850px;
+  margin-top: 25px;
+}
+
+.totalFormat { 
+  margin-top: 15px;	
+  font-size: 25px;
+  font-weight:bold;
+  /* margin-left: 28px; */
+  margin-bottom: 10px;
+   margin-left: 20px;
+}
+
+.total2 {  
+  font-weight:bold;
+  margin-right: 30px;
+   margin-left: -5px;
+}
+.total3 {  
+  font-weight:bold;
+  margin-right: 13px;
+   margin-left: -5px;
+}
+.totalFontSize {  
+  font-size: 21px;
+  margin-left: 28px;
+}
+.thankyouFontSize {  
+  margin-top: 55px;	
+  font-size: 27px;
+  font-weight:bold;
+  margin-left: 150px;
+}
+
+.topMargin{
+ margin-top: 30px;
+	
+}
+
+#selectedBaseContainer{
+ margin-left: 30px;
+	
+}
+
+.selectedFieldName{
+ margin-top: -15px;
+ font-weight: bold;	
+}
+.selectedFieldName2{
+ margin-right: 4px;
+ font-weight: bold;	
+}
+
+.innerlinkContainer {  
+ display: flex;
+ flex-direction: row;
+ display: inline-block; 
+ justify-content: flex-start;       
+}
+
+.topNavLinksAndFieldDashboard {  
+  flex-direction: column;
+  display: inline-block;             
+}
+#topNavDashboardButton1 { 
+  box-shadow: 2px 2px;
+  margin-left: -740px;      
+}
+
+
+
+.gridContainerDashboard {  
+  margin-top: 15px;	
+  text-align: center;
+  flex-direction: row;
+  margin-left: 90px;
+}
+
+/**---- Search page ------**/
+.gridContainerDashboard3 {  
+  margin-top: 15px;	
+  text-align: center;
+  flex-direction: row;
+  margin-left: 20px;
+}
+/** Search page**/
+.gridContainerDashboard4 {  
+  margin-top: 15px;	
+  text-align: center;
+  flex-direction: row;
+  margin-left: 10px;
+}
+
+
+
+
+/*** Buttons   ****/
+
+.buttoFormat2{
+  background-color: #d1d1d1; 
+  border: none;
+  padding: 20px;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 100px;
+  border-radius: 30px 30px;
+  font-size: 11px;
+  font-weight: bold;
+  height: 10px;
+  width:100px;
+  margin: 4px 2px;
+  padding-top: 5px;
+  padding-left: 13px;
+  margin-bottom: -120px;
+}
+
+
+
+.arrow-right {
+  width: 0; 
+  height: 0; 
+  border-top: 60px solid transparent;
+  border-bottom: 60px solid transparent;
+  
+  border-left: 60px solid green;
+}
+
+.arrow-left {
+  width: 0; 
+  height: 0; 
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent; 
+  
+  border-right:10px solid blue; 
+}
+
+/******** Table on dashboard page  ******/
+
+.tableHeader{
+  background-color: #dadada;
+  border-collapse: collapse;
+  text-align: center;
+  width: 60%;
+}
+
+
+/******** Table tags  ******/
+
+table, th {
+ /*  border: 1px solid black; */
+  border-collapse: collapse;
+  text-align: center;
+  width: 60%;
+}
+
+ tr, td {
+ /*  border: 1 px gray; */
+  border-collapse: collapse;
+  text-align: left;
+  padding: 15px;
+  font-size: 21px;
+}
+/* tr:nth-child(even)  {
+	background-color: #f2f2f2;
+} */
+
+.noBorder {
+ border: none;
+ width: 100%;
+ 
+} 
+
+.dashboardTableWidth {
+  border: 1px solid black;
+  width: 47%;
+  margin-bottom: 20px;
+  text-align: left;
+} 
+
+
+
+.columnWidth {
+  border: 1px solid black;
+   width: 20%
+} 
+.columnWidth1 {
+  border: 1px solid black;
+   
+} 
+
+/*---- details page ----*/ 
+
+
+.columnWidth4 {
+   width: 15%;
+   margin-bottom: 20px;
+}
+
+
